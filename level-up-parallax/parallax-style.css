@@ -39,14 +39,17 @@ body {
 /* 🧠 Step 2: Add a background image for each parallax section */
 .hero {
   /* Example: background-image: url("assets/image1.jpg"); */
+  background-image: url("https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80");
 }
 
 .quiet {
   /* Example: background-image: url("assets/image2.jpg"); */
+  background-image: url("https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=800&q=80");
 }
 
 .home {
   /* Example: background-image: url("assets/image3.jpg"); */
+  background-image: url("https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=800&q=80");
 }
 
 /* ✨ Optional Styling: Add overlay effect to parallax headings */
